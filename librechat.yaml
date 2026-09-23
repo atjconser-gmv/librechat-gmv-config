@@ -6,7 +6,7 @@ endpoints:
   custom:
     - name: "Qwen"
       apiKey: "${QWEN_API_KEY}"
-      baseURL: "https://ws-u3yfp0asiis1rvs3.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+      baseURL: "https://ws-42w1qp1rqteewrjk.ap-southeast-1.maas.aliyuncs.com/compatible-mode/v1"
       models:
         default:
           - "qwen3.8-flash"
