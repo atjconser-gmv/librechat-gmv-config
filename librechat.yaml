@@ -9,7 +9,7 @@ endpoints:
       baseURL: "https://ws-u3yfp0asiis1rvs3.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
       models:
         default:
-          - "qwen3-max"
+          - "qwen3.8-flash"
         fetch: true
       titleConvo: true
       titleModel: "current_model"
