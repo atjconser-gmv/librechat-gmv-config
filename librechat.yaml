@@ -1448,7 +1448,7 @@ endpoints:
       models:
         default:
           - qwen3.8-flash
-        fetch: true
+        fetch: false
       titleConvo: true
       titleModel: "current_model"
       summarize: false
